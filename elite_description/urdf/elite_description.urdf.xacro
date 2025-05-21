@@ -4,12 +4,12 @@ Author: Pradheep Padmanabhan
 Contributor: Adarsh Karan K P
 -->
 <robot xmlns:xacro="http://www.ros.org/wiki/xacro" name="elite">
-<!-- This is the main URDF file for ec66 elite arm-->
+<!-- This is the main URDF file for ec612 elite arm-->
 
   <!-- Set use_gz = true for Modern Gazebo Simulation-->
   <xacro:arg name="use_gz" default="false"/>
 
-  <xacro:arg name="arm_type" default="ec66"/>
+  <xacro:arg name="arm_type" default="ec612"/>
   
   <!-- Include macros -->
   <xacro:include filename="$(find elite_description)/urdf/xacros/elite_macro.xacro" />

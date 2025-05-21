@@ -94,8 +94,8 @@ def generate_launch_description():
             description='Use joint state publisher gui if True (True/False)'
         )
     declare_arm_type_arg = DeclareLaunchArgument(
-            'arm_type', default_value='ec66',
-            description='Type of arm to be launched (ec66). Will add more types in the future.'
+            'arm_type', default_value='ec612',
+            description='Type of arm to be launched (ec612). Will add more types in the future.'
         )
 
     opq_function = OpaqueFunction(

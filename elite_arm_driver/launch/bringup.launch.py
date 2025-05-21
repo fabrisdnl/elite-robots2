@@ -81,7 +81,7 @@ def generate_launch_description():
 
     use_arm_type_arg = DeclareLaunchArgument(
         'arm_type',
-        default_value='ec66')
+        default_value='ec612')
 
     launch_args = []
     launch_args.extend([ip_addr_launch_arg,

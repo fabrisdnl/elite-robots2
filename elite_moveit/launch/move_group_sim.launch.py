@@ -24,12 +24,12 @@ def launch_setup(context, *args, **kwargs):
 
     urdf = os.path.join(get_package_share_directory('elite_moveit'),
         'config',
-        'ec66_simulation.urdf.xacro')
+        'ec612_simulation.urdf.xacro')
 
     # MoveIt Configuration
     srdf = os.path.join(get_package_share_directory('elite_moveit'),
         'config',
-        'ec66.srdf')
+        'ec612.srdf')
     
     moveit_config = (
         MoveItConfigsBuilder("elite", package_name="elite_moveit")
@@ -83,8 +83,8 @@ def generate_launch_description():
     declared_arguments.append(
         DeclareLaunchArgument(
             'arm_type', 
-            default_value='ec66',
-            choices=['ec66'],
+            default_value='ec612',
+            choices=['ec612'],
             description='Arm Types:\n'
         )
     )

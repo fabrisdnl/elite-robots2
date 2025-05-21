@@ -7,7 +7,7 @@ This package was developed by Neobotix. This package is currently maintained by 
 ![new_neobotix_1920px](https://github.com/neobotix/elite-robots2/assets/20242192/1377441b-a9bb-42bd-9a8b-c190773d13d4)
 
 
-At the moment, this ROS 2 package supports the EC66 variant. But a Pull Request would well and truly be accepted for other variants of the Elite arm. 
+At the moment, this ROS 2 package supports the ec612 variant. But a Pull Request would well and truly be accepted for other variants of the Elite arm. 
 
 Also this package consists of the simulation for the EC 66 arm.
 

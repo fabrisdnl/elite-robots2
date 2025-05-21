@@ -4,7 +4,7 @@
   <name>elite_moveit</name>
   <version>0.1.0</version>
   <description>
-     An automatically generated package with all the configuration and launch files for using the ec66 with the MoveIt Motion Planning Framework
+     An automatically generated package with all the configuration and launch files for using the ec612 with the MoveIt Motion Planning Framework
   </description>
   <maintainer email="padmanabhan@neobotix.de">padmanabhan</maintainer>
   <maintainer email="adarshkaran01@gmail.com">adarsh</maintainer>

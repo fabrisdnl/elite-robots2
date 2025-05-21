@@ -96,8 +96,8 @@ def execution_stage(context: LaunchContext, use_arm_type_arg):
 def generate_launch_description():
     # Declare launch arguments with default values and descriptions
     declare_use_arm_type_arg = DeclareLaunchArgument(
-        'arm_type', default_value='ec66',
-        description='Type of the arm to be launched(Currently only ec66 is supported)'
+        'arm_type', default_value='ec612',
+        description='Type of the arm to be launched(Currently only ec612 is supported)'
         )
 
     opq_func = OpaqueFunction(function = execution_stage,

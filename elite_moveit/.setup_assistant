@@ -1,9 +1,9 @@
 moveit_setup_assistant_config:
   urdf:
     package: elite_description
-    relative_path: urdf/ec66_description.urdf
+    relative_path: urdf/ec612_description.urdf
   srdf:
-    relative_path: config/ec66.srdf
+    relative_path: config/ec612.srdf
   package_settings:
     author_name: padmanabhan
     author_email: padmanabhan@neobotix.de

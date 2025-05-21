@@ -49,7 +49,7 @@
       </inertial>
       <visual>
       <geometry>
-        <mesh filename="package://elite_description/meshes/ec66/base_link.stl"/>
+        <mesh filename="package://elite_description/meshes/ec612/base_link.stl"/>
       </geometry>
       <material name="">
         <color rgba="1 1 1 1" />
@@ -57,7 +57,7 @@
       </visual>
       <collision>
       <geometry>
-        <mesh filename="package://elite_description/meshes/ec66/base_link.stl"/>
+        <mesh filename="package://elite_description/meshes/ec612/base_link.stl"/>
       </geometry>
       </collision>
     </link>
@@ -78,7 +78,7 @@
       </inertial>
       <visual>
         <geometry>
-          <mesh filename="package://elite_description/meshes/ec66/link1.stl"/>
+          <mesh filename="package://elite_description/meshes/ec612/link1.stl"/>
         </geometry>
         <material name="">
           <color rgba="1 1 1 1" />
@@ -86,7 +86,7 @@
       </visual>
       <collision>
         <geometry>
-          <mesh filename="package://elite_description/meshes/ec66/link1.stl"/>
+          <mesh filename="package://elite_description/meshes/ec612/link1.stl"/>
         </geometry>
       </collision>
     </link>
@@ -120,7 +120,7 @@
       </inertial>
       <visual>
         <geometry>
-          <mesh filename="package://elite_description/meshes/ec66/link2.stl"/>
+          <mesh filename="package://elite_description/meshes/ec612/link2.stl"/>
         </geometry>
         <material name="">
           <color rgba="1 1 1 1" />
@@ -128,7 +128,7 @@
       </visual>
       <collision>
         <geometry>
-          <mesh filename="package://elite_description/meshes/ec66/link2.stl"/>
+          <mesh filename="package://elite_description/meshes/ec612/link2.stl"/>
         </geometry>
       </collision>
     </link>
@@ -162,7 +162,7 @@
       </inertial>
       <visual>
         <geometry>
-          <mesh filename="package://elite_description/meshes/ec66/link3.stl"/>
+          <mesh filename="package://elite_description/meshes/ec612/link3.stl"/>
         </geometry>
         <material name="">
           <color rgba="1 1 1 1" />
@@ -170,7 +170,7 @@
       </visual>
       <collision>
         <geometry>
-          <mesh filename="package://elite_description/meshes/ec66/link3.stl"/>
+          <mesh filename="package://elite_description/meshes/ec612/link3.stl"/>
         </geometry>
       </collision>
     </link>
@@ -204,7 +204,7 @@
       </inertial>
       <visual>
         <geometry>
-          <mesh filename="package://elite_description/meshes/ec66/link4.stl"/>
+          <mesh filename="package://elite_description/meshes/ec612/link4.stl"/>
         </geometry>
         <material name="">
           <color rgba="1 1 1 1" />
@@ -212,7 +212,7 @@
       </visual>
       <collision>
         <geometry>
-          <mesh filename="package://elite_description/meshes/ec66/link4.stl"/>
+          <mesh filename="package://elite_description/meshes/ec612/link4.stl"/>
         </geometry>
       </collision>
     </link>
@@ -246,7 +246,7 @@
       </inertial>
       <visual>
         <geometry>
-          <mesh filename="package://elite_description/meshes/ec66/link5.stl"/>
+          <mesh filename="package://elite_description/meshes/ec612/link5.stl"/>
         </geometry>
         <material name="">
           <color rgba="1 1 1 1" />
@@ -254,7 +254,7 @@
       </visual>
       <collision>
         <geometry>
-          <mesh filename="package://elite_description/meshes/ec66/link5.stl"/>
+          <mesh filename="package://elite_description/meshes/ec612/link5.stl"/>
         </geometry>
       </collision>
     </link>
@@ -288,7 +288,7 @@
       </inertial>
       <visual>
         <geometry>
-          <mesh filename="package://elite_description/meshes/ec66/link6.stl"/>
+          <mesh filename="package://elite_description/meshes/ec612/link6.stl"/>
         </geometry>
         <material name="">
           <color rgba="1 1 1 1" />
@@ -296,7 +296,7 @@
       </visual>
       <collision>
         <geometry>
-          <mesh filename="package://elite_description/meshes/ec66/link6.stl"/>
+          <mesh filename="package://elite_description/meshes/ec612/link6.stl"/>
         </geometry>
       </collision>
     </link>

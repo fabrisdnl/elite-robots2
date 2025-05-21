@@ -3,7 +3,7 @@
     <xacro:arg name="initial_positions_file" default="initial_positions.yaml" />
 
     <xacro:arg name="use_gz" default="true"/>
-    <xacro:arg name="arm_type" default="ec66"/>
+    <xacro:arg name="arm_type" default="ec612"/>
 
     <!-- Import ec612 urdf file with use_gaz set to true and arm argument-->
     <xacro:include filename="$(find elite_description)/urdf/elite_description.urdf.xacro"/>

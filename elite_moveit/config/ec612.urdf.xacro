@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://wiki.ros.org/xacro" name="ec612">
+    <xacro:arg name="initial_positions_file" default="initial_positions.yaml" />
+        
+    <xacro:arg name="arm" default="ec612"/>
+
+    <!-- Import elite_description urdf file with arm argument -->
+    <xacro:include filename="$(find elite_description)/urdf/elite_description.urdf.xacro"/>
+</robot>
